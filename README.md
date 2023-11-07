@@ -3,6 +3,10 @@ DFLOW 1.0
 Sistema ERP - Controle Integrado de Empresas
 Atenção: Este projeto não é público, mas você pode testar a ferramenta e ver como ela funciona aqui.
 
+Veja um pouco como é utilizar o sistema.
+https://www.youtube.com/watch?v=yFv3OUhOVL4
+
+
 (LOGIN)
 ![Captura de tela 2023-11-07 154527](https://github.com/kaiqueols/DFLOWERP/assets/26558204/7e2d87aa-cc0e-41a8-bcb5-74e7e78d19c2)
 (PERFIL)
