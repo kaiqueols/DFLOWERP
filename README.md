@@ -3,7 +3,8 @@ DFLOW 1.0
 Sistema ERP - Controle Integrado de Empresas
 Atenção: Este projeto não é público, mas você pode testar a ferramenta e ver como ela funciona aqui.
 
-![Captura de tela 2023-11-07 154527](https://github.com/kaiqueols/dflow/assets/26558204/440b151b-81ff-4b00-9ba6-6a0852b14c00)
+![Captura de tela 2023-11-07 154527](https://github.com/kaiqueols/DFLOWERP/assets/26558204/7e2d87aa-cc0e-41a8-bcb5-74e7e78d19c2)
+
 
 
 O Sistema ERP (Enterprise Resource Planning) é uma solução completa e integrada para empresas que desejam melhorar o gerenciamento de recursos e processos. Este projeto inclui vários módulos interconectados para facilitar o controle e a gestão de diferentes aspectos empresariais.
@@ -15,7 +16,9 @@ Módulo de Solicitação de Compras
 O módulo de solicitação de compras permite que as empresas controlem as compras solicitadas.
 As compras avançam para o departamento financeiro apenas se forem aprovadas pelo aprovador responsável.
 É possível definir prioridades, anexar documentos e monitorar o status das solicitações.
-![Captura de tela 2023-11-07 154551](https://github.com/kaiqueols/dflow/assets/26558204/a14d87b9-03dc-40be-8b82-cce8e7cc769a)
+
+
+![COMPRAS](https://github.com/kaiqueols/DFLOWERP/assets/26558204/7a464644-0a5c-448f-a36c-b1ed4381abc6)
 
 
 Módulo de Controle de Despesas
@@ -24,7 +27,8 @@ O módulo de controle de despesas é projetado para o gerenciamento de reembolso
 As despesas também seguem um fluxo de aprovação antes do pagamento.
 Os colaboradores podem anexar recibos e justificativas para suas despesas.
 
-![Captura de tela 2023-11-07 154601](https://github.com/kaiqueols/dflow/assets/26558204/49be8a11-add8-4788-8379-e8a5705e02db)
+
+![DESPESAS](https://github.com/kaiqueols/DFLOWERP/assets/26558204/8da7683a-8ce1-404d-86d7-3484bbc4a487)
 
 
 Módulo de Controle de Veículos
@@ -41,7 +45,8 @@ O módulo de controle de estoque oferece uma visão abrangente e prática do est
 Você pode cadastrar, remover itens, extrair relatórios, acrescentar tipos de itens e muito mais.
 É possível definir níveis mínimos de estoque e receber notificações de reabastecimento.
 
-![Captura de tela 2023-11-07 154609](https://github.com/kaiqueols/dflow/assets/26558204/d42d7acf-def3-4031-92ec-0440e9596917)
+![ESTOQUE](https://github.com/kaiqueols/DFLOWERP/assets/26558204/89e04949-d386-4500-ac5d-7d5ba674c9b6)
+
 
 Aplicativo Móvel de Consumo de Itens do Estoque
 
@@ -65,9 +70,9 @@ O módulo de mensagens permite que os administradores enviem notas da empresa.
 Há também um registro de log que mantém todas as ações executadas no sistema pelos usuários.
 O registro de log oferece transparência e rastreabilidade.
 
-![Captura de tela 2023-11-07 155058](https://github.com/kaiqueols/dflow/assets/26558204/13031450-004c-43a5-b2fd-3b01ebe54bc8)
+![LOGS](https://github.com/kaiqueols/DFLOWERP/assets/26558204/8316ad22-2b7b-47e7-b444-c043bec6af1b)
 
-![Captura de tela 2023-11-07 155105](https://github.com/kaiqueols/dflow/assets/26558204/9975640f-2c42-41aa-9cfc-8febf843bdaf)
+![MENSAGENS](https://github.com/kaiqueols/DFLOWERP/assets/26558204/ea93a6fe-3887-4829-8452-ac59a9fc9e03)
 
 
 Integração com WhatsApp, SMS e E-mail
