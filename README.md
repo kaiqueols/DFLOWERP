@@ -3,8 +3,20 @@ DFLOW 1.0
 Sistema ERP - Controle Integrado de Empresas
 Atenção: Este projeto não é público, mas você pode testar a ferramenta e ver como ela funciona aqui.
 
+(LOGIN)
 ![Captura de tela 2023-11-07 154527](https://github.com/kaiqueols/DFLOWERP/assets/26558204/7e2d87aa-cc0e-41a8-bcb5-74e7e78d19c2)
-
+(PERFIL)
+![PERFIL](https://github.com/kaiqueols/DFLOWERP/assets/26558204/b4fd5cb1-7486-4568-9313-36c9bb311139)
+(ADMINISTRAÇÃO)
+![ADMINISTRACAO](https://github.com/kaiqueols/DFLOWERP/assets/26558204/741f2ddb-ac73-4744-8ae7-85170d4d0fee)
+(ENVIAR MENSAGEM NA BARRA DE NOTIFICAÇÃO)
+![ENVIAR_MENSAGEM](https://github.com/kaiqueols/DFLOWERP/assets/26558204/6df79406-e4fe-4107-89e4-ffdd68e7a567)
+(CADASTRAR UM COLABORADOR)
+![CADASTRAR COLABORADOR](https://github.com/kaiqueols/DFLOWERP/assets/26558204/0270d3cc-7070-43ab-9a53-c278d0818c54)
+(BOTAO INFO)
+![BOTAO INFO](https://github.com/kaiqueols/DFLOWERP/assets/26558204/21d72586-f8d3-4539-be9a-7e23effb495a)
+(SUPORTE)
+![ABRIR CHAMADO](https://github.com/kaiqueols/DFLOWERP/assets/26558204/b8557264-5a44-4cc3-a288-ee016f6b963b)
 
 
 O Sistema ERP (Enterprise Resource Planning) é uma solução completa e integrada para empresas que desejam melhorar o gerenciamento de recursos e processos. Este projeto inclui vários módulos interconectados para facilitar o controle e a gestão de diferentes aspectos empresariais.
