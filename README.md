@@ -10,7 +10,7 @@ https://www.youtube.com/watch?v=yFv3OUhOVL4
 (LOGIN)
 ![Captura de tela 2023-11-07 154527](https://github.com/kaiqueols/DFLOWERP/assets/26558204/7e2d87aa-cc0e-41a8-bcb5-74e7e78d19c2)
 (PERFIL)
-![PERFIL](https://github.com/kaiqueols/DFLOWERP/assets/26558204/b4fd5cb1-7486-4568-9313-36c9bb311139)
+![PERFIL2](https://github.com/kaiqueols/DFLOWERP/assets/26558204/44ec4f21-cefe-4828-bc8e-12ec8a602c0e)
 (ADMINISTRAÇÃO)
 ![ADMINISTRACAO](https://github.com/kaiqueols/DFLOWERP/assets/26558204/741f2ddb-ac73-4744-8ae7-85170d4d0fee)
 (ENVIAR MENSAGEM NA BARRA DE NOTIFICAÇÃO)
